@@ -4,7 +4,7 @@ This is a project course of Coursera Data Science specialization
 The files included are run_analysis.R, script that answer the the following instructions:
 
 1. Download the dataset from web if it does not already exist in the working directory.
-																																								
+
 2. Read both the train and test datasets and merge them into x(measurements), y(activity) and subject, respectively.
 
 3. Extracts only the measurements on the mean and standard deviation for each measurement.
